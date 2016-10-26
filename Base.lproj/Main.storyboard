@@ -595,7 +595,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="J1Q-PU-0dD" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-589" y="2514"/>
+            <point key="canvasLocation" x="-738" y="2594"/>
         </scene>
         <!--Bar View Controller-->
         <scene sceneID="dow-fe-VVe">
@@ -1119,7 +1119,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Uw8-mm-uyJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-603" y="1035"/>
+            <point key="canvasLocation" x="-535" y="1242"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tg2-Mf-8Qu">
@@ -1374,10 +1374,10 @@
         <image name="american-flag-large.jpg" width="1200" height="632"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="qMz-Bs-jkl"/>
         <segue reference="u9s-wb-zky"/>
-        <segue reference="fem-ah-DSc"/>
+        <segue reference="MV4-FB-rst"/>
         <segue reference="EP5-8c-nbc"/>
         <segue reference="xyj-au-Pqm"/>
-        <segue reference="MV4-FB-rst"/>
     </inferredMetricsTieBreakers>
 </document>
